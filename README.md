@@ -165,7 +165,7 @@ This project is the second in a series of open-source sustainability data tools:
 - [GHG Emissions Intelligence Calculator](https://github.com/sajjad-ahmed20/ghg-emissions-calculator) — Scope 1, 2 & 3 calculator with Power BI dashboard and Net Zero scenario modelling
 - [CSRD-ESRS & GRI Framework Mapping](https://github.com/sajjad-ahmed20/esrs-gri-framework-mapping) — Comparative analysis of ESRS E1 and GRI Standards
 
-**Contact:** sajjadahmed.mubeen2@gmail.com | [LinkedIn](https://linkedin.com/in/sajjad-ahmed) | [GitHub](https://github.com/sajjad-ahmed20)
+**Contact:** sajjadahmed.mubeen2@gmail.com | [LinkedIn](https://www.linkedin.com/in/sajjad-ahmed-40159b250/) | [GitHub](https://github.com/sajjad-ahmed20)
 
 ---
 
